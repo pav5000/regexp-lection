@@ -10,7 +10,6 @@ import (
 
 type Task struct {
 	Str     string
-	Count   int
 	Matches []string
 }
 

@@ -7,3 +7,6 @@ run2:
 
 run3:
 	go run github.com/pav5000/regexp-lection/03_quantifiers
+
+run4:
+	go run github.com/pav5000/regexp-lection/04_capture_groups
